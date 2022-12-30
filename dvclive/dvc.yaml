@@ -1,0 +1,6 @@
+metrics:
+- metrics.json
+params:
+- params.yaml
+plots:
+- plots
